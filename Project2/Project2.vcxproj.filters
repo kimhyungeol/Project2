@@ -15,7 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="string 클래스를 이용한 문자열 입력및 다루기.cpp">
+    <ClInclude Include="circle.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="클래스 구분 메인 함수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="클래스 구현부.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
